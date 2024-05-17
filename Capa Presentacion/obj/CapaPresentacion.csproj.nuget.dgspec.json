@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\Capa Presentacion\\CapaPresentacion.csproj": {}
+  },
+  "projects": {
+    "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\Capa Datos\\CapaDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\Capa Datos\\CapaDatos.csproj",
+        "projectName": "CapaDatos",
+        "projectPath": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\Capa Datos\\CapaDatos.csproj",
+        "packagesPath": "C:\\Users\\mamg1\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\Capa Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mamg1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaEntidades\\CapaEntidades.csproj": {
+                "projectPath": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaEntidades\\CapaEntidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\Capa Presentacion\\CapaPresentacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\Capa Presentacion\\CapaPresentacion.csproj",
+        "projectName": "CapaPresentacion",
+        "projectPath": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\Capa Presentacion\\CapaPresentacion.csproj",
+        "packagesPath": "C:\\Users\\mamg1\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\Capa Presentacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mamg1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaEntidades\\CapaEntidades.csproj": {
+                "projectPath": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaEntidades\\CapaEntidades.csproj"
+              },
+              "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaNegocio\\CapaNegocio.csproj": {
+                "projectPath": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaNegocio\\CapaNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "ReportViewerCore.NETCore": {
+              "target": "Package",
+              "version": "[15.1.14, )"
+            },
+            "ReportViewerCore.WinForms": {
+              "target": "Package",
+              "version": "[15.1.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaEntidades\\CapaEntidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaEntidades\\CapaEntidades.csproj",
+        "projectName": "CapaEntidades",
+        "projectPath": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaEntidades\\CapaEntidades.csproj",
+        "packagesPath": "C:\\Users\\mamg1\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaEntidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mamg1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaNegocio\\CapaNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaNegocio\\CapaNegocio.csproj",
+        "projectName": "CapaNegocio",
+        "projectPath": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaNegocio\\CapaNegocio.csproj",
+        "packagesPath": "C:\\Users\\mamg1\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mamg1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\Capa Datos\\CapaDatos.csproj": {
+                "projectPath": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\Capa Datos\\CapaDatos.csproj"
+              },
+              "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaEntidades\\CapaEntidades.csproj": {
+                "projectPath": "D:\\Proyectos\\BikesV2\\Moreno_MiguelAngel_BikeStores\\CapaEntidades\\CapaEntidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

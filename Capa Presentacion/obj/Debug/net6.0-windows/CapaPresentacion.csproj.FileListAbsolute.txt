@@ -1,0 +1,191 @@
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\Capa_Presentacion.Form1.resources
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\Capa_Presentacion.Properties.Resources.resources
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\Capa_Presentacion.FormLogIn.resources
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\Capa_Presentacion.FormPrincipal.resources
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Castle.Core.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\EntityFramework.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaDatos.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaEntidades.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaNegocio.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaEntidades.pdb
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaNegocio.pdb
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\CapaDatos.pdb
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\Capa_Presentacion.Form1.resources
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\Capa_Presentacion.FormLogIn.resources
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\Capa_Presentacion.FormPrincipal.resources
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\Capa_Presentacion.Properties.Resources.resources
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\Capa_Presentacion.FormAltaEmpleado.resources
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\Capa_Presentacion.FormModificarEmpleado.resources
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\Capa_Presentacion.FormBuscador.resources
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\Capa_Presentacion.FormAltaPedido.resources
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.ReportViewer.NETCore.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\obj\Debug\net6.0-windows\Capa_Presentacion.FormInforme.resources
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Presentacion\bin\Debug\net6.0-windows\factura.rdlc

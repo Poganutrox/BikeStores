@@ -1,0 +1,34 @@
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\bin\Debug\net6.0\CapaDatos.runtimeconfig.json
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.genruntimeconfig.cache
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\ref\CapaDatos.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\bin\Debug\net6.0\CapaDatos.deps.json
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\bin\Debug\net6.0\CapaDatos.runtimeconfig.json
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\bin\Debug\net6.0\CapaDatos.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\bin\Debug\net6.0\CapaDatos.pdb
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\bin\Debug\net6.0\CapaEntidades.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\bin\Debug\net6.0\CapaEntidades.pdb
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\refint\CapaDatos.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.pdb
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\CapaDatos.genruntimeconfig.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\Capa Datos\obj\Debug\net6.0\ref\CapaDatos.dll

@@ -1,0 +1,38 @@
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaNegocio.runtimeconfig.json
+C:\Users\Miguel Ángel\Desktop\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.genruntimeconfig.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaNegocio.runtimeconfig.json
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaEntidades.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\bin\Debug\net6.0\CapaEntidades.pdb
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\CapaNegocio.genruntimeconfig.cache
+D:\Proyectos\BikesV2\Moreno_MiguelAngel_BikeStores\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
